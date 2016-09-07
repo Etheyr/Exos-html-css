@@ -1,0 +1,21 @@
+
+body {
+	background-color: #B0B0B0 ;
+}
+h1{
+	color: blue ;
+    text-align: center;
+    border-style: solid;
+}
+h2 {
+	color: red ;
+	text-align: center;
+}
+p {
+	font-size: 22px ;
+	color: black ;
+	text-align: left ;
+}
+img {
+	width: 100% ;
+}
