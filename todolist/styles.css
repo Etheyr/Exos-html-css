@@ -1,0 +1,20 @@
+a {
+	font-size: 30px;
+}
+.menu {
+	font-size: 20px;
+}
+.blocklist {
+
+	background-color: #282c37;
+	height:70px;
+	width: 80%;
+	margin:30px;
+	margin-left:15%;
+	box-shadow: 3px 3px 3px #000000;
+	border-radius:10px ;
+	position: relative ;
+}
+body{
+	background-color: #566270;
+}
